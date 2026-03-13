@@ -2,9 +2,9 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Arthur Reis Nametala
+- Matricula: 910810
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela do Curriculum Vitae>`
+![Currículo](Print/Print_Currículo.png)
